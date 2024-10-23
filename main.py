@@ -1,4 +1,8 @@
 from selenium import webdriver
+#Импорт библиотека для ввода с клавиатуры
+from selenium.webdriver import Keys
+#Импорт библиотеки для поиска на сайте
+from selenium.webdriver.common.by import By
 #Модуль для работы со временем
 import time
 
